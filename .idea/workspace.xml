@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cca6d051-64bd-4e9f-af2c-52469be1c0d6" name="Changes" comment="Carga de Frontend completo">
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easyventas/.gcloudignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easyventas/app.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyventas/frontend/js/scriptReporte1.js" beforeDir="false" afterPath="$PROJECT_DIR$/easyventas/frontend/js/scriptReporte1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyventas/frontend/js/scriptReporte2.js" beforeDir="false" afterPath="$PROJECT_DIR$/easyventas/frontend/js/scriptReporte2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easyventas/frontend/js/scriptReporte3.js" beforeDir="false" afterPath="$PROJECT_DIR$/easyventas/frontend/js/scriptReporte3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyventas/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/easyventas/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easyventas/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/easyventas/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectId" id="1zQuZkhTxZrUZRSDafvK0QixWOG" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -49,6 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager" selected="Spring Boot.TpimsiApplication">
@@ -101,6 +116,7 @@
       <workItem from="1635443728160" duration="342000" />
       <workItem from="1635444119263" duration="232000" />
       <workItem from="1637084032827" duration="6365000" />
+      <workItem from="1637509858115" duration="6045000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1637041793406</created>
